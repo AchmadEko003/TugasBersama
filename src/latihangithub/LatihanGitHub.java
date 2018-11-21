@@ -22,6 +22,7 @@ public class LatihanGitHub {
         System.out.println("ainanichan is here..");
         System.out.println("Adhe Tiga");
         System.out.println("Igaz F");
+        System.out.println("Fathur");
     }
     
    
