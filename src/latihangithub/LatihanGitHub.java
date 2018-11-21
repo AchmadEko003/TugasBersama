@@ -17,6 +17,7 @@ public class LatihanGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Bootcamp 21");
+        System.out.println("Nama saya Igaz");
     }
     
 }
