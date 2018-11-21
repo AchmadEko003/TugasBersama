@@ -17,8 +17,12 @@ public class LatihanGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Bootcamp 21");
-        System.out.println("Nama saya Igaz");
+        System.out.println("Andi Selamet R");
         System.out.println("Mukhlis Purnomo Aji");
+        System.out.println("ainanichan is here..");
+        System.out.println("Adhe Tiga");
+        System.out.println("Igaz F");
     }
     
+   
 }
