@@ -31,6 +31,7 @@ public class LatihanGitHub {
         System.out.println("Hello Bootcamp 21");
         System.out.println("branch1");
         System.out.println("branch test");
+        System.out.println("branch test 2");
     }
     
    
