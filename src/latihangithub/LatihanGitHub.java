@@ -32,6 +32,7 @@ public class LatihanGitHub {
         System.out.println("branch1");
         System.out.println("branch test");
         System.out.println("branch test 2");
+        System.out.println("Branch test 3");
     }
     
    
