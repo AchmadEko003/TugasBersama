@@ -27,6 +27,7 @@ public class LatihanGitHub {
         System.out.println("Fiki Efendi");
         System.out.println("M Dwi Setiyo");
         System.out.println("Yuda Fatah");
+        System.out.println("Nezia");
     }
     
    
